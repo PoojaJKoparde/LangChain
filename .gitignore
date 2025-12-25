@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Database and cache files
+*.sqlite
+*.db
+chat_history.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env

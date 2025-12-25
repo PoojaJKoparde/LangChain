@@ -1,0 +1,6 @@
+# LLM and LangChain packages
+langchain_ollama
+langchain_core
+
+# Data handling
+pandas
